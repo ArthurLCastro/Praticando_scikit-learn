@@ -34,4 +34,4 @@ Para a execução dos códigos disponíveis neste repositório, algumas bibliote
 ## **Curso Intro to Machine Learning - Kaggle**:
 Além dos códigos desenvolvidos durante as aulas e estudos particulares do Scikit-learn, este repositório contém também [os arquivos](curso_kaggle_intro_to_ml/) que utilizei durante o curso
 [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-do Kaggle.
+do kaggle.
